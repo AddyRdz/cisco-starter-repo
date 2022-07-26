@@ -11,11 +11,14 @@
 .Card_container {
   display: flex;
   color: black;
-  font-size: xx-large;
+  font-size: x-large;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  
+}
+
+.Card{
+  border: solid black;
 }
 
 
